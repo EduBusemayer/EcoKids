@@ -2,11 +2,11 @@
 
 Recriação do jogo "FreeWay"
 
-Criado por: Eduardo S. Büsemayer
-            Guilherme Bloemer
-            Felipe S. Santos
-            Felipe A. Soares
-            Matheus Bittencourt
+Criado por: Eduardo S. Büsemayer,
+            Guilherme Bloemer,
+            Felipe S. Santos,
+            Felipe A. Soares,
+            Matheus Bittencourt,
 
 Inspirado no projeto de: Lucas Silva e Pereira
 | :sparkles: Nome        | **FreeWay**
