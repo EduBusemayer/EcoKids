@@ -9,6 +9,7 @@ Criado por: Eduardo S. Büsemayer,
             Matheus Bittencourt,
 
 Inspirado no projeto de: Lucas Silva e Pereira
+
 | :sparkles: Nome        | **FreeWay**
 | :label: Tecnologias | JavaScript, HTML5, CSS3
 | :rocket: URL | https://github.com/lupesii/FreeWay/
